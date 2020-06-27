@@ -3,7 +3,7 @@
 </h1>
 
 
-# :nut-and-bolt: Controle de Academia
+# :nut_and_bolt: Controle de Academia
 
 É uma interface para permitr o cadastro de instrutores e de alunos de uma academia. Foi desenvolvido usando Javascript no front e back. A template engine [**Nunjucks**](https://mozilla.github.io/nunjucks/) foi uma ótima adição ao projeto pra reuso de código.
 
