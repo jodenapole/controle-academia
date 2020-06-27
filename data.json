@@ -1,0 +1,12 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Jo",
+      "birth": 951868800000,
+      "gender": "NB",
+      "services": "Musculação, Halterofilismo",
+      "created_at": 1593238545076
+    }
+  ]
+}
